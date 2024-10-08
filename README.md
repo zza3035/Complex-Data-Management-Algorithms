@@ -1,5 +1,5 @@
 # Complex-Data-Management-Algorithms
-This repository includes three complex data management algorithms written in Jupiter Notebook. These exercises are from course COMP7107.   
+This repository includes three complex data management algorithms implemented in Python. These exercises are from course COMP7107.   
 
 1 Spatial Range Queries: developing and testing of algorithms for filtering objects while processing spatial range queries. Key point: compute minimum bounding rectangles for polygons, then use MBRs as filters in queries.  (The polygon.csv is too big to uploaded)
 
